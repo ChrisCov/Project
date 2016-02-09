@@ -1,0 +1,300 @@
+a:27:{i:0;O:8:"stdClass":20:{s:5:"title";s:43:"Sharp 50" full hd Led Tv Â£299.99 @ Argos";s:9:"deal_link";s:85:"http://www.hotukdeals.com/deals/sharp-50-full-hd-led-tv-299-99-argos-2391345?aui=1057";s:16:"mobile_deal_link";s:85:"http://www.hotukdeals.com/deals/sharp-50-full-hd-led-tv-299-99-argos-2391345?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391345_1.jpg";s:11:"description";s:195:"It's not a bad price for a 50" from a reputable manufacturer.Only 2 HDMI ports but with usb still,this is an led tv so it's picture should be vivid and crisp.It is full high definition 1920x1080p";s:11:"submit_time";s:24:"18 hours, 24 minutes ago";s:8:"hot_time";s:23:"8 hours, 36 minutes ago";s:11:"poster_name";s:10:"WIZARDZSYS";s:11:"temperature";d:359.67000000000001591615728102624416351318359375;s:5:"price";s:6:"299.99";s:9:"timestamp";i:1454891711;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:11:"Audiovisual";s:8:"url_name";s:11:"audiovisual";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:2:{i:0;O:8:"stdClass":1:{s:4:"name";s:2:"TV";}i:1;O:8:"stdClass":1:{s:4:"name";s:6:"LED TV";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391345_1.jpg";s:24:"deal_image_highres_width";i:312;s:25:"deal_image_highres_height";i:312;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391345";}i:1;O:8:"stdClass":20:{s:5:"title";s:53:"Yamaha YAS-101 120W Soundbar [Â£89.99 @ Argos/Ebay]";s:9:"deal_link";s:94:"http://www.hotukdeals.com/deals/yamaha-yas-101-120w-soundbar-89-99-argos-ebay-2391195?aui=1057";s:16:"mobile_deal_link";s:94:"http://www.hotukdeals.com/deals/yamaha-yas-101-120w-soundbar-89-99-argos-ebay-2391195?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391195_1.jpg";s:11:"description";s:364:"Very good soundbar, I have the 93 which is the same as this one apart from the 101 has a subwoofer output. Has a decent amount of bass considering it does not have a separate sub.
+
+Yes it will be destroyed by a 5.1 system, but show me where you can buy one for Â£89.99? 
+
+Edit.. Review below
+
+http://www.digitaltrends.com/sound-bar-reviews/yamaha-yas-101-review/";s:11:"submit_time";s:20:"1 day, 2 minutes ago";s:8:"hot_time";s:23:"20 hours, 6 minutes ago";s:11:"poster_name";s:10:"murkymango";s:11:"temperature";d:352.3999999999999772626324556767940521240234375;s:5:"price";s:5:"89.99";s:9:"timestamp";i:1454871402;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:11:"Audiovisual";s:8:"url_name";s:11:"audiovisual";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:2:{i:0;O:8:"stdClass":1:{s:4:"name";s:8:"Soundbar";}i:1;O:8:"stdClass":1:{s:4:"name";s:6:"Yamaha";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391195_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:500;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391195";}i:2;O:8:"stdClass":20:{s:5:"title";s:48:"End Table in Oak Effect now Â£7.99 C+C @ Argos";s:9:"deal_link";s:88:"http://www.hotukdeals.com/deals/end-table-oak-effect-now-7-99-c-c-argos-2391489?aui=1057";s:16:"mobile_deal_link";s:88:"http://www.hotukdeals.com/deals/end-table-oak-effect-now-7-99-c-c-argos-2391489?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391489_1.jpg";s:11:"description";s:411:"Considering the price, it actually has really good reviews, scores 4.5/5 from 668 people. Checked stock in 10+ postcodes & all had stock in/nearby or order into store for collection in 2/3 days.
+This oak effect end table is a sturdy, stylish design. Use in a range of rooms to suit your needs. Ideal for holding a phone, photographs or your cup of tea. 
+Collect in store today.
+Size H45, W45, D45cm.
+Weight 3kg.";s:11:"submit_time";s:11:"8 hours ago";s:8:"hot_time";s:23:"4 hours, 30 minutes ago";s:11:"poster_name";s:15:"wishihadadonkey";s:11:"temperature";d:271.8600000000000136424205265939235687255859375;s:5:"price";s:4:"7.99";s:9:"timestamp";i:1454929170;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Home";s:8:"url_name";s:4:"home";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:5:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Table";}i:1;O:8:"stdClass":1:{s:4:"name";s:3:"Oak";}i:2;O:8:"stdClass":1:{s:4:"name";s:9:"End Table";}i:3;O:8:"stdClass":1:{s:4:"name";s:11:"Small Table";}i:4;O:8:"stdClass":1:{s:4:"name";s:10:"Lamp Table";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391489_1.jpg";s:24:"deal_image_highres_width";i:312;s:25:"deal_image_highres_height";i:312;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391489";}i:3;O:8:"stdClass":20:{s:5:"title";s:98:"Sakura Universal All Weather Boot Mat. Â£6.99 @ argos Free Delivery or Possible store Collection";s:9:"deal_link";s:133:"http://www.hotukdeals.com/deals/sakura-universal-weather-boot-mat-6-99-argos-free-delivery-possible-store-collection-2391180?aui=1057";s:16:"mobile_deal_link";s:133:"http://www.hotukdeals.com/deals/sakura-universal-weather-boot-mat-6-99-argos-free-delivery-possible-store-collection-2391180?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391180_1.jpg";s:11:"description";s:799:"Sakura Universal All Weather Boot Mat Â£6.99 was Â£12.99
+ Just reserved one of these for my car, although it says online exclusive it seems selected stores have them in stock, if not home delivery option with Free delivery. Ideal for keeping your boot clean and dry,  I always find the carpets a nightmare to keep clean in the boot, so much prefer a rubber mat that I can just wipe over when dirty. 
+ Universal fit, good online reviews for this item.
+
+Product description / spec
+ Simply place over the top of your current boot lining for a weather resistant, protective surface. This product is 120cm long by 80cm wide - fits most boot spaces (universal fit). This all weather boot mat is made from durable, flexible rubber for optimum versatility. It can also be trimmed for the perfect fit. 
+
+";s:11:"submit_time";s:21:"1 day, 27 minutes ago";s:8:"hot_time";s:24:"20 hours, 58 minutes ago";s:11:"poster_name";s:7:"goldy12";s:11:"temperature";d:245.509999999999990905052982270717620849609375;s:5:"price";s:4:"6.99";s:9:"timestamp";i:1454869946;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:6:"Travel";s:8:"url_name";s:6:"travel";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:1:{i:0;O:8:"stdClass":1:{s:4:"name";s:8:"Delivery";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391180_1.jpg";s:24:"deal_image_highres_width";i:312;s:25:"deal_image_highres_height";i:312;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391180";}i:4;O:8:"stdClass":20:{s:5:"title";s:72:"Rastar RC Formula 1 Ferrari 1:12 was Â£24.99 now Â£10.99 C+C @ Argos";s:9:"deal_link";s:111:"http://www.hotukdeals.com/deals/rastar-rc-formula-1-ferrari-1-12-was-24-99-now-10-99-c-c-argos-2391493?aui=1057";s:16:"mobile_deal_link";s:111:"http://www.hotukdeals.com/deals/rastar-rc-formula-1-ferrari-1-12-was-24-99-now-10-99-c-c-argos-2391493?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391493_1.jpg";s:11:"description";s:370:"Great reviews, bought this for nephew last year & paid far more, he loves it & its held up really well with a six yr old using it.
+Product description / spec
+Function: Forward, Reverse, Turn left, Turn right, Forward light & Reverse light. 
+One supplied.
+Size H41.7, W15, L9.7cm.
+Batteries required: 5 x AA (not included) 1 x 9V (not included).
+For ages 3 years and over";s:11:"submit_time";s:23:"7 hours, 54 minutes ago";s:8:"hot_time";s:23:"2 hours, 46 minutes ago";s:11:"poster_name";s:15:"wishihadadonkey";s:11:"temperature";d:233.75;s:5:"price";s:5:"10.99";s:9:"timestamp";i:1454929512;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:7:"Fashion";s:8:"url_name";s:7:"fashion";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:6:{i:0;O:8:"stdClass":1:{s:4:"name";s:2:"F1";}i:1;O:8:"stdClass":1:{s:4:"name";s:7:"Ferrari";}i:2;O:8:"stdClass":1:{s:4:"name";s:18:"Remote Control Car";}i:3;O:8:"stdClass":1:{s:4:"name";s:9:"Kids Toys";}i:4;O:8:"stdClass":1:{s:4:"name";s:17:"Radio Control Car";}i:5;O:8:"stdClass":1:{s:4:"name";s:31:"Rastar Rc Formula 1 Ferrari 112";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391493_1.jpg";s:24:"deal_image_highres_width";i:312;s:25:"deal_image_highres_height";i:312;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391493";}i:5;O:8:"stdClass":20:{s:5:"title";s:67:"getting cheaper!  refurb Lenovo tab2 A7 Blue Â£40.49 - argos/ebay";s:9:"deal_link";s:108:"http://www.hotukdeals.com/deals/getting-cheaper-refurb-lenovo-tab2-a7-blue-40-49-argos-ebay-2391694?aui=1057";s:16:"mobile_deal_link";s:108:"http://www.hotukdeals.com/deals/getting-cheaper-refurb-lenovo-tab2-a7-blue-40-49-argos-ebay-2391694?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391694_1.jpg";s:11:"description";s:245:"The black ones seem to be Â£45 (49 -10%) but if you look at the coloured ones you can get an even cheaper deal.   44.99 less 10% (10% taken off when you buy)
+
+1.3GHz MediaTek 8127 quad core processor.
+1GB RAM.
+8 GB internal storage.
+- mrew42";s:11:"submit_time";s:23:"2 hours, 52 minutes ago";s:8:"hot_time";s:14:"43 minutes ago";s:11:"poster_name";s:5:"mas99";s:11:"temperature";d:174.75;s:5:"price";s:5:"40.49";s:9:"timestamp";i:1454947626;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391694_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391694";}i:6;O:8:"stdClass":20:{s:5:"title";s:81:"Amiibo Figures - Sheik Â£4.99 / Dark Pit Â£5.99 / Peach Â£6.99 @ argos/ebay";s:9:"deal_link";s:110:"http://www.hotukdeals.com/deals/amiibo-figures-sheik-4-99-dark-pit-5-99-peach-6-99-argos-ebay-2391495?aui=1057";s:16:"mobile_deal_link";s:110:"http://www.hotukdeals.com/deals/amiibo-figures-sheik-4-99-dark-pit-5-99-peach-6-99-argos-ebay-2391495?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391495_1.jpg";s:11:"description";s:213:"â¢Nintendo characters come to life in new ways as amiibo - interactive figures that have the ability to communicate with multiple specially designed games by just touching them to the Wii U GamePad Controller.";s:11:"submit_time";s:23:"7 hours, 53 minutes ago";s:8:"hot_time";s:21:"1 hour, 5 minutes ago";s:11:"poster_name";s:4:"Lomi";s:11:"temperature";d:128.6299999999999954525264911353588104248046875;s:5:"price";s:4:"4.99";s:9:"timestamp";i:1454929542;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:6:"Gaming";s:8:"url_name";s:6:"gaming";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:1:{i:0;O:8:"stdClass":1:{s:4:"name";s:6:"Amiibo";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391495_1.jpg";s:24:"deal_image_highres_width";i:400;s:25:"deal_image_highres_height";i:260;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391495";}i:7;O:8:"stdClass":20:{s:5:"title";s:64:"Disney Cinderella Duvet Cover Set - Single now Â£9.99 at Argos";s:9:"deal_link";s:104:"http://www.hotukdeals.com/deals/disney-cinderella-duvet-cover-set-single-now-9-99-argos-2391029?aui=1057";s:16:"mobile_deal_link";s:104:"http://www.hotukdeals.com/deals/disney-cinderella-duvet-cover-set-single-now-9-99-argos-2391029?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391029_1.jpg";s:11:"description";s:327:"Such a lovely duvet set and nice to see a princess one that's not all pink! 
+Reduced down from Â£24.99 to just Â£9.99 at Argos.
+
+Set includes - 1 pillowcase and 1 duvet set. Matching accessories available. Licensed bedding and accessories from Character World. 
+
+- Machine washable at 40Â°C.
+- Suitable for tumble drying.";s:11:"submit_time";s:18:"1 day, 4 hours ago";s:8:"hot_time";N;s:11:"poster_name";s:9:"millarcat";s:11:"temperature";d:86.2999999999999971578290569595992565155029296875;s:5:"price";s:4:"9.99";s:9:"timestamp";i:1454854380;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Kids";s:8:"url_name";s:4:"kids";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:3:{i:0;O:8:"stdClass":1:{s:4:"name";s:6:"Disney";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Duvet";}i:2;O:8:"stdClass":1:{s:4:"name";s:10:"Cinderella";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391029_1.jpg";s:24:"deal_image_highres_width";i:466;s:25:"deal_image_highres_height";i:500;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391029";}i:8;O:8:"stdClass":20:{s:5:"title";s:38:"Tefal Optigrill Â£89 @ Tesco Instore";s:9:"deal_link";s:81:"http://www.hotukdeals.com/deals/tefal-optigrill-89-tesco-instore-2391128?aui=1057";s:16:"mobile_deal_link";s:81:"http://www.hotukdeals.com/deals/tefal-optigrill-89-tesco-instore-2391128?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391128_1.jpg";s:11:"description";s:300:"Been on here for a few years and bought loads but anyway, in Tesco today and these are marked down in Tesco to Â£89. Online says "out of stock" so maybe they're only in the stores. Â£129.99 in Argos (eeek!)
+Cheaper on Ebay (refurb).Tesco is just a case of nipping in if it goes wrong unlike Ebay.";s:11:"submit_time";s:17:"1 day, 1 hour ago";s:8:"hot_time";N;s:11:"poster_name";s:8:"dave7634";s:11:"temperature";d:83.1200000000000045474735088646411895751953125;s:5:"price";s:5:"89.00";s:9:"timestamp";i:1454865037;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Home";s:8:"url_name";s:4:"home";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:3:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Tefal";}i:2;O:8:"stdClass":1:{s:4:"name";s:9:"Optigrill";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391128_1.jpg";s:24:"deal_image_highres_width";i:225;s:25:"deal_image_highres_height";i:225;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391128";}i:9;O:8:"stdClass":20:{s:5:"title";s:78:"Lenovo A2 A10-70 White Tablet 16GB 10 Inch, 2GB Ram, 1920x1200 Â£119 @ Tesco";s:9:"deal_link";s:119:"http://www.hotukdeals.com/deals/lenovo-a2-a10-70-white-tablet-16gb-10-inch-2gb-ram-1920x1200-119-tesco-2391785?aui=1057";s:16:"mobile_deal_link";s:119:"http://www.hotukdeals.com/deals/lenovo-a2-a10-70-white-tablet-16gb-10-inch-2gb-ram-1920x1200-119-tesco-2391785?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391785_1.jpg";s:11:"description";s:668:"Bought this tablet yesterday instore at Tesco, and paid Â£140, so this is a cracking deal, and for the money, a cracking tablet. 
+
+Currently going for Â£149 @Amazon and Â£149.99 at Argos.
+
+Lollipop 5.01 out of the box (not the stated Kitkat), 2GB ram, 1920x1200 display and a fat 7000mAh battery make this a very juicy deal...
+
+The tablet also runs a pretty clean version of  Lollipop which is great - no dodgy interface tweaks for the sake of tweaking. I haven't had a chance to look into the bundled apps but there are only a few, one of which I've uninstalled already (a game) but can't say yet whether the others uninstall.  Hardly a big deal though imo...  ";s:11:"submit_time";s:20:"1 hour, 1 minute ago";s:8:"hot_time";N;s:11:"poster_name";s:14:"CaptainCustard";s:11:"temperature";d:82.31000000000000227373675443232059478759765625;s:5:"price";s:6:"119.00";s:9:"timestamp";i:1454954308;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391785_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:392;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391785";}i:10;O:8:"stdClass":20:{s:5:"title";s:44:"Belkin USB 2.0 Cable - 1.8m Â£1.19 @ Argos";s:9:"deal_link";s:85:"http://www.hotukdeals.com/deals/belkin-usb-2-0-cable-1-8m-1-19-argos-2391632?aui=1057";s:16:"mobile_deal_link";s:85:"http://www.hotukdeals.com/deals/belkin-usb-2-0-cable-1-8m-1-19-argos-2391632?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391632_1.jpg";s:11:"description";s:432:"Click n collect.
+
+This office essentials 6ft USB 2.0 cable offers complete compatibility with PCs and is ideal as either a replacement or if your original cable is too short for your requirements. 
+
+Delivers high speed data transfers to 480Mbps. Supports up to 127 devices on a daisy-chain configuration. Meets FCC requirements on reducing electromagnetic/radio frequency interference (EMI/RFI) .
+
+Manufacturer's lifetime guarantee.";s:11:"submit_time";s:23:"4 hours, 33 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:4:"ssc1";s:11:"temperature";d:77.280000000000001136868377216160297393798828125;s:5:"price";s:4:"1.19";s:9:"timestamp";i:1454941538;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:4:{i:0;O:8:"stdClass":1:{s:4:"name";s:3:"USB";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Argos";}i:2;O:8:"stdClass":1:{s:4:"name";s:6:"Belkin";}i:3;O:8:"stdClass":1:{s:4:"name";s:9:"USB Cable";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391632_1.jpg";s:24:"deal_image_highres_width";i:225;s:25:"deal_image_highres_height";i:225;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391632";}i:11;O:8:"stdClass":20:{s:5:"title";s:101:"Toshiba L50-C 15.6" Intel i3 1.7GHz 8GB 1TB Win8.1/10 Laptop - Black Â£224.99 @ Argos ebay (refurb)";s:9:"deal_link";s:132:"http://www.hotukdeals.com/deals/toshiba-l50-c-15-6-intel-i3-1-7ghz-8gb-1tb-win8-1-10-laptop-black-224-99-argos-ebay-2391408?aui=1057";s:16:"mobile_deal_link";s:132:"http://www.hotukdeals.com/deals/toshiba-l50-c-15-6-intel-i3-1-7ghz-8gb-1tb-win8-1-10-laptop-black-224-99-argos-ebay-2391408?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391408_1.jpg";s:11:"description";s:1445:"Seems to be a decent spec for a home office/student laptop. i3, 8GB Ram, 1TB HDD, Bluetooth, Card Reader, USB 3.0, HD Webcam and a reasonable weight. 
+
+Refurbished With a 12 Month Argos Guarantee
+
+The ultra-slim L50-C is designed for big entertainment - with Skullcandy speakers tuned by DTS Sound and a 39.6 cm (15.6") HD display.
+The Satellite L50-C is the perfect all rounder, with a thin and light chassis, crystal clear HD screen and a huge 1TB of storage for all your media files.
+The L50-C has a dedicated cortana button, to allow you to instantly access microsoft's new personal assistant.
+CPU, Memory and Operating System:
+Intel Core i3 Intel Core i3-4005u dual core processor.
+1.7GHz processor speed.
+8GB RAM.
+1TB SATA hard drive.
+Microsoft Windows 8.1.
+This device can be upgraded to Windows 10 for free.
+Display features:
+15.6 inch screen.
+High definition display.
+Resolution 1366 x 768 pixels.
+DVD optical drives:
+DVD plus RW/DVD-RW (read/write).
+Graphics:
+Intel HD Graphics 4400intelÂ® hd graphics 4400 graphics card.
+Shared graphics card.
+Interfaces and connectivity:
+2-in-1 media card reader.
+Secure Digital (SD), Multi-Media Card (MMC) compatible.
+1 USB 2.0 port.
+2 USB 3.0 ports.
+1 HDMI port.
+Bluetooth.
+Wi-Fi enabled.
+Multimedia features:
+HD webcam.
+Built-in mic.
+General information:
+Size H2.35, W38, D25.9cm.
+Weight 2.2kg.
+
+*** Add to basket for this price, 10% will be automatically deducted to bring it to this price ***";s:11:"submit_time";s:24:"10 hours, 37 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:5:"topss";s:11:"temperature";d:76.31000000000000227373675443232059478759765625;s:5:"price";s:6:"224.99";s:9:"timestamp";i:1454919705;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:8:{i:0;O:8:"stdClass":1:{s:4:"name";s:6:"Laptop";}i:1;O:8:"stdClass":1:{s:4:"name";s:4:"eBay";}i:2;O:8:"stdClass":1:{s:4:"name";s:10:"Hard Drive";}i:3;O:8:"stdClass":1:{s:4:"name";s:5:"Argos";}i:4;O:8:"stdClass":1:{s:4:"name";s:5:"Intel";}i:5;O:8:"stdClass":1:{s:4:"name";s:7:"Toshiba";}i:6;O:8:"stdClass":1:{s:4:"name";s:9:"Windows 8";}i:7;O:8:"stdClass":1:{s:4:"name";s:2:"i3";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391408_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:346;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391408";}i:12;O:8:"stdClass":20:{s:5:"title";s:67:"The Clangers Family Pack of Figures half price Â£4.99 C+C @ Argos";s:9:"deal_link";s:103:"http://www.hotukdeals.com/deals/clangers-family-pack-figures-half-price-4-99-c-c-argos-2391498?aui=1057";s:16:"mobile_deal_link";s:103:"http://www.hotukdeals.com/deals/clangers-family-pack-figures-half-price-4-99-c-c-argos-2391498?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391498_1.jpg";s:11:"description";s:424:"Brings back memories from my childhood but now all my own kids & nieces/nephews are "into" the new series. Seem to be between Â£7.99 with prime del @ Amazon & Â£9.99 elsewhere.
+Have fun with the Clangers family pack. It includes Major, Mother, Small, Tiny and Baby Soup Dragon for your kid to get involved in their exciting world. The figures come with articulated arms to make them more responsive. 
+Size H15, W22, D5cm";s:11:"submit_time";s:23:"7 hours, 43 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:15:"wishihadadonkey";s:11:"temperature";d:70.06999999999999317878973670303821563720703125;s:5:"price";s:4:"4.99";s:9:"timestamp";i:1454930170;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Kids";s:8:"url_name";s:4:"kids";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:6:{i:0;O:8:"stdClass":1:{s:4:"name";s:10:"Half Price";}i:1;O:8:"stdClass":1:{s:4:"name";s:6:"Family";}i:2;O:8:"stdClass":1:{s:4:"name";s:9:"Kids Toys";}i:3;O:8:"stdClass":1:{s:4:"name";s:8:"Clangers";}i:4;O:8:"stdClass":1:{s:4:"name";s:11:"Soup Dragon";}i:5;O:8:"stdClass":1:{s:4:"name";s:12:"The Clangers";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391498_1.jpg";s:24:"deal_image_highres_width";i:312;s:25:"deal_image_highres_height";i:312;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391498";}i:13;O:8:"stdClass":20:{s:5:"title";s:37:"Moshi monsters blind bag 79p at Argos";s:9:"deal_link";s:83:"http://www.hotukdeals.com/deals/moshi-monsters-blind-bag-79p-argos-2391292?aui=1057";s:16:"mobile_deal_link";s:83:"http://www.hotukdeals.com/deals/moshi-monsters-blind-bag-79p-argos-2391292?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391292_1.jpg";s:11:"description";s:69:"Moshi monsters blind bag series 8 now 79p down from Â£1.99 at Argos";s:11:"submit_time";s:23:"21 hours, 7 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:13:"tamlyndouglas";s:11:"temperature";d:67.8700000000000045474735088646411895751953125;s:5:"price";s:4:"0.79";s:9:"timestamp";i:1454881919;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Kids";s:8:"url_name";s:4:"kids";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:2:{i:0;O:8:"stdClass":1:{s:4:"name";s:3:"Bag";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Moshi";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391292_1.jpg";s:24:"deal_image_highres_width";i:437;s:25:"deal_image_highres_height";i:500;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391292";}i:14;O:8:"stdClass":20:{s:5:"title";s:98:"Chad Vallet Gunslinger game - Less than half price -  The modern 'tin can alley?' Â£7.99 @ Argos";s:9:"deal_link";s:129:"http://www.hotukdeals.com/deals/chad-vallet-gunslinger-game-less-than-half-price-modern-tin-can-alley-7-99-argos-2391136?aui=1057";s:16:"mobile_deal_link";s:129:"http://www.hotukdeals.com/deals/chad-vallet-gunslinger-game-less-than-half-price-modern-tin-can-alley-7-99-argos-2391136?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391136_1.jpg";s:11:"description";s:131:"Looks great for Â£8  - Reminded me of 'Tin Can Alley' which was a favourite of mine when I was a young'un - 
+
+From Argos
+- kkaren";s:11:"submit_time";s:17:"1 day, 1 hour ago";s:8:"hot_time";N;s:11:"poster_name";s:9:"charlie71";s:11:"temperature";d:66.6299999999999954525264911353588104248046875;s:5:"price";s:4:"7.99";s:9:"timestamp";i:1454866020;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Kids";s:8:"url_name";s:4:"kids";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:4:{i:0;O:8:"stdClass":1:{s:4:"name";s:4:"Kids";}i:1;O:8:"stdClass":1:{s:4:"name";s:4:"Toys";}i:2;O:8:"stdClass":1:{s:4:"name";s:10:"Half Price";}i:3;O:8:"stdClass":1:{s:4:"name";s:5:"Argos";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391136_1.jpg";s:24:"deal_image_highres_width";i:312;s:25:"deal_image_highres_height";i:312;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391136";}i:15;O:8:"stdClass":20:{s:5:"title";s:103:"Panasonic TX-48CX400B 48 Inch Ultra HD 4K Freeview HD Smart WiFi LED 3D TV Black Â£399 @ Argos / Ebay";s:9:"deal_link";s:129:"http://www.hotukdeals.com/deals/panasonic-tx-48cx400b-48-inch-ultra-hd-4k-freeview-hd-smart-wifi-led-3d-tv-black-2391698?aui=1057";s:16:"mobile_deal_link";s:129:"http://www.hotukdeals.com/deals/panasonic-tx-48cx400b-48-inch-ultra-hd-4k-freeview-hd-smart-wifi-led-3d-tv-black-2391698?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391698_1.jpg";s:11:"description";s:1437:"refurbished from argos
+free delivery
+
+Television picture quality:
+â¢Led TV Screen.
+â¢4K Ultra HD display resolution.
+â¢Active 3D TV with optional 2D to 3D conversion.
+â¢Screen size: 48 inches.
+â¢Motion rate 200Hz.
+â¢Response time 0.0010 milliseconds.
+â¢Viewing angle 176/176 degrees.
+â¢Resolution 3840 x 2160 pixels.
+
+Connectivity:
+â¢1 SCART socket, 3 USB ports and 4 HDMI sockets.
+â¢Smart TV.
+â¢HDMI 2.0.
+â¢Component video socket.
+â¢Composite socket.
+â¢Optical connection.
+â¢Headphone socket.
+â¢AV socket.
+â¢Wi-Fi enabled.
+â¢Ethernet connection.
+â¢DLNA compatibility.
+â¢Miracast.
+â¢Open browser.
+â¢Suitable for wall mounting .
+
+Sound quality:
+â¢2 channel sound system.
+â¢2 x 10 watt RMS power output.
+
+Digital features:
+â¢Features USB video playback.
+â¢Micro dimming technology improves the contrast by dimming individual sections of the TV screen.
+â¢Freeview HD digital tuner.
+â¢Single core processor.
+â¢7 day electronic programme guide (EPG).
+â¢CI plus slot.
+
+Additional features:
+â¢Sleep timer.
+â¢Child lock.
+â¢Size of TV H62.7, W108.1, D6.5cm.
+â¢Size of TV with stand: H68.7, W108.1, D27.1cm.
+
+Energy efficiency information:
+â¢On mode power consumption 87 watts.
+â¢Annual power consumption 127kWh.
+â¢Standby power consumption 0.5 watt.
+
+EAN: 5025232813063.
+
+Catalogue number 325/9047
+";s:11:"submit_time";s:23:"2 hours, 42 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:10:"proteus123";s:11:"temperature";d:67.43000000000000682121026329696178436279296875;s:5:"price";s:6:"399.00";s:9:"timestamp";i:1454948201;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:11:"Audiovisual";s:8:"url_name";s:11:"audiovisual";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:4:{i:0;O:8:"stdClass":1:{s:4:"name";s:8:"Freeview";}i:1;O:8:"stdClass":1:{s:4:"name";s:3:"LED";}i:2;O:8:"stdClass":1:{s:4:"name";s:2:"3D";}i:3;O:8:"stdClass":1:{s:4:"name";s:9:"Panasonic";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391698_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391698";}i:16;O:8:"stdClass":20:{s:5:"title";s:56:"Challenge Xtreme Angle Grinder - 2000W Â£18.99 @ Argos";s:9:"deal_link";s:97:"http://www.hotukdeals.com/deals/challenge-xtreme-angle-grinder-2000w-18-99-argos-2391039?aui=1057";s:16:"mobile_deal_link";s:97:"http://www.hotukdeals.com/deals/challenge-xtreme-angle-grinder-2000w-18-99-argos-2391039?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391039_1.jpg";s:11:"description";s:733:"Half price grinder
+
+treme Angle Grinder - 2000W.
+A valuable tool, this angle grinder from Challenge will cut through metal or masonry with no problem. Its soft start rotating rear handle makes usage comfortable and allows for different working positions. With its quick release blade guard, spindle lock and three handle positions, it's a DIY must-have. 
+
+2000 watts.
+240V battery power.
+Disc size 115mm.
+Metal or masonry disc.
+2 discs.
+Max speed 6000rpm.
+1 speed setting.
+Lock switch.
+Soft grip handle.
+Side handle.
+Rear handle.
+3 handle positions.
+Spindle lock.
+Protective guard.
+Accessories included: 1 spanner.
+Use for masonry & metal.
+Cord length of 2.5m.
+Size H12, W11 and D48cm.
+Weight 4.6kg.
+EAN: 7114047.
+
+@ Argos
+- thomas58";s:11:"submit_time";s:18:"1 day, 4 hours ago";s:8:"hot_time";N;s:11:"poster_name";s:6:"t17rks";s:11:"temperature";d:64.3700000000000045474735088646411895751953125;s:5:"price";s:5:"18.99";s:9:"timestamp";i:1454855492;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Home";s:8:"url_name";s:4:"home";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:2:{i:0;O:8:"stdClass":1:{s:4:"name";s:7:"Grinder";}i:1;O:8:"stdClass":1:{s:4:"name";s:16:"Challenge Xtreme";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391039_1.jpg";s:24:"deal_image_highres_width";i:420;s:25:"deal_image_highres_height";i:500;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391039";}i:17;O:8:"stdClass":20:{s:5:"title";s:120:"Toshiba L50-C-14P 15.6" i3-4005 1.7GHz 4GB 1TB USB 3.0(x2) HDMI 4K Windows 8 (refurb) Â£197.99 delivered at Argos eBay";s:9:"deal_link";s:130:"http://www.hotukdeals.com/deals/toshiba-l50-c-14p-15-6-i3-4005-1-7ghz-4gb-1tb-usb-3-0-x2-hdmi-4k-windows-8-refurb-2391464?aui=1057";s:16:"mobile_deal_link";s:130:"http://www.hotukdeals.com/deals/toshiba-l50-c-14p-15-6-i3-4005-1-7ghz-4gb-1tb-usb-3-0-x2-hdmi-4k-windows-8-refurb-2391464?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391464_1.jpg";s:11:"description";s:1889:"Great laptop for everyday use. Glossy black finish with slim thread pattern. 10% off automatically applied at checkout.  Free delivery, Free upgrade to Windows 10, Â£2 extra cashback via TCB 1.05%.  Refurbished with 1 year guarantee.
+
+The ultra-slim L50-C is designed for big entertainment â with Skullcandy speakers tuned by DTS Sound and a 39.6 cm (15.6") HD display.
+The Satellite L50-C is the perfect all rounder, with a thin and light chassis, crystal clear hd screen and a huge 1TB of storage for all your media files.
+The L50-C has a dedicated Cortana button, to allow you to instantly access microsoft's new personal assistant.
+
+Intel Core i3-4005 dual core processor.
+1.7GHz processor speed.
+1TB SATA hard drive.
+Microsoft Windows 8.1.
+This device can be upgraded to Windows 10 for free.
+Display features:
+15.6 inch screen.
+High definition display.
+DVD optical drives:
+DVD plus RW/DVD-RW (read/write).
+Graphics:
+Intel HD Graphics 4400.
+Shared graphics card.
+Interfaces and connectivity:
+2-in-1 media card reader.
+Secure Digital (SD), Multi-Media Card (MMC) compatible.
+1 USB 2.0 port.
+2 USB 3.0 ports.
+1 Ã HDMI-out supporting Ultra HD 4K format
+Bluetooth.
+Wi-Fi enabled.
+Multimedia features:
+HD webcam.
+Built-in mic.
+Software included:
+Cyberlink MediaStory (depends of the configuration).
+Cyberlink PowerDVD (depends of the configuration).
+DTSÂ® sound.
+McAfee LiveSafeâ¢ - Protects all your devices (complimentary 30 day subscription).
+Toshiba Display Utility.
+Toshiba Eco Utilityâ¢.
+Toshiba Function Key.
+Toshiba Media Player by Smedio Truelink.
+Toshiba PC Health Monitor.
+Toshiba System Settings.
+General features:
+Size H2.35, W38, D25.9cm.
+Weight 2.2kg.
+
+Two possible upgrades:
+The HDD can be swapped for a min. 120gb SSD drive for lightning speed.  For everyday surfing 4gb memory is fine but that is also easily replaceable with something larger.
+
+bb8 ;)
+";s:11:"submit_time";s:23:"8 hours, 29 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:3:"bb8";s:11:"temperature";d:61.27000000000000312638803734444081783294677734375;s:5:"price";s:6:"197.99";s:9:"timestamp";i:1454927430;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:8:{i:0;O:8:"stdClass":1:{s:4:"name";s:8:"Delivery";}i:1;O:8:"stdClass":1:{s:4:"name";s:6:"Laptop";}i:2;O:8:"stdClass":1:{s:4:"name";s:10:"Hard Drive";}i:3;O:8:"stdClass":1:{s:4:"name";s:3:"USB";}i:4;O:8:"stdClass":1:{s:4:"name";s:4:"HDMI";}i:5;O:8:"stdClass":1:{s:4:"name";s:7:"Toshiba";}i:6;O:8:"stdClass":1:{s:4:"name";s:9:"Windows 8";}i:7;O:8:"stdClass":1:{s:4:"name";s:2:"i3";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391464_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:377;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391464";}i:18;O:8:"stdClass":20:{s:5:"title";s:65:"Freya Bedding Set - Single (was Â£13.99) now Â£3.99  at Argos";s:9:"deal_link";s:98:"http://www.hotukdeals.com/deals/freya-bedding-set-single-was-13-99-now-3-99-argos-2391811?aui=1057";s:16:"mobile_deal_link";s:98:"http://www.hotukdeals.com/deals/freya-bedding-set-single-was-13-99-now-3-99-argos-2391811?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391811_1.jpg";s:11:"description";s:180:"Nice little duvet set down to Â£3.99 at Argos.
+
+Set includes 1 duvet cover and 1 pillowcase.
+Machine washable.
+Made from 52% polyester and 48% cotton.
+Suitable for tumble drying.";s:11:"submit_time";s:14:"24 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:9:"millarcat";s:11:"temperature";d:56.31000000000000227373675443232059478759765625;s:5:"price";s:4:"3.99";s:9:"timestamp";i:1454956519;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Home";s:8:"url_name";s:4:"home";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391811_1.jpg";s:24:"deal_image_highres_width";i:312;s:25:"deal_image_highres_height";i:312;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391811";}i:19;O:8:"stdClass":20:{s:5:"title";s:142:"Less than BF/CM sold out price! NetGear D3600-100UKS N600 Dual Band Gigabit Modem Router with built in ADSL2+ >> 48.58% OFF! Â£35.99 @ Argos";s:9:"deal_link";s:129:"http://www.hotukdeals.com/deals/less-than-bf-cm-sold-out-price-netgear-d3600-100uks-n600-dual-band-gigabit-modem-2391158?aui=1057";s:16:"mobile_deal_link";s:129:"http://www.hotukdeals.com/deals/less-than-bf-cm-sold-out-price-netgear-d3600-100uks-n600-dual-band-gigabit-modem-2391158?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391158_1.jpg";s:11:"description";s:872:"NetGear D3600-100UKS N600 Dual Band Gigabit Modem Router ADSL2+
+
+All in one, quality 2015 model which has had 2 updates already..
+
+Cheaper than the stupid low BF price when they sold out..
+
+Solid tech, fast and looks a lot better than the V1 model!
+
+Geek-o-spec:
+
+N600 (300 Mbps + 300 Mbps
+Simultaneous dual band 2.4 GHz and 5 GHz
+Four (4) 10/100/1000 (1 WAN and 3 LAN) Gigabit Ethernet ports with auto-sensing technology
+One (1) ADSL2+ port and one (1) USB port
+Live parental controls
+Ethernet WAN - for fibre Internet connection
+Works with DSL Internet service providers
+Wi-Fi protected access (WPA/WPA2âPSK)
+Double firewall protection (SPI and NAT firewall)
+Denial-of-service (DoS) attack prevention
+
+If you want one, buy it as they will be stripped of the warehouse
+shelves [as per most Argos static deals] quick-smart..
+
+TCB as well, every little helps out :-)
+
+";s:11:"submit_time";s:17:"1 day, 1 hour ago";s:8:"hot_time";N;s:11:"poster_name";s:3:"008";s:11:"temperature";d:55.10000000000000142108547152020037174224853515625;s:5:"price";s:5:"35.99";s:9:"timestamp";i:1454867346;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:5:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Argos";}i:1;O:8:"stdClass":1:{s:4:"name";s:6:"Router";}i:2;O:8:"stdClass":1:{s:4:"name";s:7:"Netgear";}i:3;O:8:"stdClass":1:{s:4:"name";s:11:"Argos.co.uk";}i:4;O:8:"stdClass":1:{s:4:"name";s:12:"Netgear N600";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391158_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:390;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391158";}i:20;O:8:"stdClass":20:{s:5:"title";s:83:"SLx Digitop Flat Pro Indoor TV Aerial just Â£7.99 with free delivery @ Argos Ebay";s:9:"deal_link";s:126:"http://www.hotukdeals.com/deals/slx-digitop-flat-pro-indoor-tv-aerial-just-7-99-with-free-delivery-argos-ebay-2391106?aui=1057";s:16:"mobile_deal_link";s:126:"http://www.hotukdeals.com/deals/slx-digitop-flat-pro-indoor-tv-aerial-just-7-99-with-free-delivery-argos-ebay-2391106?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391106_1.jpg";s:11:"description";s:108:"Amplified.
+Up to 20dB signal gain.
+Adjustable.
+For indoor use only.
+Can be placed horizontally or vertically";s:11:"submit_time";s:18:"1 day, 2 hours ago";s:8:"hot_time";N;s:11:"poster_name";s:9:"topsmoker";s:11:"temperature";d:52.1099999999999994315658113919198513031005859375;s:5:"price";s:4:"7.99";s:9:"timestamp";i:1454861845;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:11:"Audiovisual";s:8:"url_name";s:11:"audiovisual";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:2:{i:0;O:8:"stdClass":1:{s:4:"name";s:8:"Delivery";}i:1;O:8:"stdClass":1:{s:4:"name";s:6:"Aerial";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391106_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:443;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391106";}i:21;O:8:"stdClass":20:{s:5:"title";s:57:"Microsoft Universal Bluetooth Keyboard Â£39.99 at Argos";s:9:"deal_link";s:99:"http://www.hotukdeals.com/deals/microsoft-universal-bluetooth-keyboard-39-99-argos-2391756?aui=1057";s:16:"mobile_deal_link";s:99:"http://www.hotukdeals.com/deals/microsoft-universal-bluetooth-keyboard-39-99-argos-2391756?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391756_1.jpg";s:11:"description";s:1092:"Seems like a good deal for this highly rated bluetooth keyboard, which looks to be about Â£55 elsewhere at the moment.
+
+Here's some bumf (is that how you spell it?!) about it from Micorsoft:
+
+Multi-purpose cover
+The protective cover includes an integrated stand for your tablet or phone1. The cover can be detached for more comfortable positioning of your device.
+
+Open the cover to connect
+Simply open the cover to power up and connect. Close the cover to turn off the keyboard.
+
+Designed for iPad, iPhone, Android devices and Windows tablets
+Pairs with up to 3 devices with different operating systems and easily switch between them using the Operating System switch.2
+
+Rechargeable battery
+Rechargeable battery provides up to 6 months of usage on a single overnight charge. A ten minute charge provides 8 hours of usage. Battery status indicator lets you know when youâre low on power.
+
+Wireless Bluetooth Technology
+Bluetooth connectivity eliminates the clutter of wires and dongles.
+Learn More
+
+Home key
+Takes you to your Home screen on Windows, iPad, iPhone, and Android devices.";s:11:"submit_time";s:22:"1 hour, 26 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:8:"RichArab";s:11:"temperature";d:48.22999999999999687361196265555918216705322265625;s:5:"price";s:5:"39.99";s:9:"timestamp";i:1454952759;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:4:{i:0;O:8:"stdClass":1:{s:4:"name";s:9:"Microsoft";}i:1;O:8:"stdClass":1:{s:4:"name";s:9:"Bluetooth";}i:2;O:8:"stdClass":1:{s:4:"name";s:8:"Keyboard";}i:3;O:8:"stdClass":1:{s:4:"name";s:17:"Wireless Keyboard";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391756_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:275;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391756";}i:22;O:8:"stdClass":20:{s:5:"title";s:82:"Flat to Wall up to 26 Inch Superior Tilting TV Wall Bracket collect Â£3.99 ARGOS";s:9:"deal_link";s:111:"http://www.hotukdeals.com/deals/flat-up-26-inch-superior-tilting-tv-bracket-collect-3-99-argos-2391578?aui=1057";s:16:"mobile_deal_link";s:111:"http://www.hotukdeals.com/deals/flat-up-26-inch-superior-tilting-tv-bracket-collect-3-99-argos-2391578?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391578_1.jpg";s:11:"description";s:507:"Good reviews solid and nice and easy to fit TV's up to 26 inches 
+rrp Â£18.99
+
+Free up the coffee table with this quality product
+
+Adjust the angle effortlessly with the Superior Tilting Bracket for up to 26 inch TVs. This TV can support 15kgs and can hold TVs from 10 to 26 inches. 
+
+Tilting bracket.
+Suitable for flat TVs from 10in to 26in.
+Maximum TV weight 15kg.
+VESA compatible mount.
+75mm, 100mm .
+Black finish.
+Self-assembly.
+Built in spirit level.
+Wall fixings not included.
+Size H15, W22, D2.5cm.";s:11:"submit_time";s:23:"5 hours, 58 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:9:"jaycrooks";s:11:"temperature";d:34.3900000000000005684341886080801486968994140625;s:5:"price";s:4:"3.99";s:9:"timestamp";i:1454936464;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Home";s:8:"url_name";s:4:"home";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:1:{i:0;O:8:"stdClass":1:{s:4:"name";s:8:"TV Mount";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391578_1.jpg";s:24:"deal_image_highres_width";i:312;s:25:"deal_image_highres_height";i:312;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391578";}i:23;O:8:"stdClass":20:{s:5:"title";s:76:"Kenwood KM280 Prospero Kitchen Machine - White. Â£71.99 Argos Ebay outlet.";s:9:"deal_link";s:117:"http://www.hotukdeals.com/deals/kenwood-km280-prospero-kitchen-machine-white-71-99-argos-ebay-outlet-2391477?aui=1057";s:16:"mobile_deal_link";s:117:"http://www.hotukdeals.com/deals/kenwood-km280-prospero-kitchen-machine-white-71-99-argos-ebay-outlet-2391477?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391477_1.jpg";s:11:"description";s:116:"Brand new.
+Seems like quite a good price, with free delivery.
+RRP around Â£190, not as though anyone would pay it!";s:11:"submit_time";s:23:"8 hours, 14 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:12:"Dyslexic_Dog";s:11:"temperature";d:32.49000000000000198951966012828052043914794921875;s:5:"price";s:5:"71.99";s:9:"timestamp";i:1454928291;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Home";s:8:"url_name";s:4:"home";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:2:{i:0;O:8:"stdClass":1:{s:4:"name";s:7:"Kitchen";}i:1;O:8:"stdClass":1:{s:4:"name";s:7:"Kenwood";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391477_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391477";}i:24;O:8:"stdClass":20:{s:5:"title";s:30:"WANTED-Little Mermaid Mask etc";s:9:"deal_link";s:88:"http://www.hotukdeals.com/for-sale-trade/wanted-little-mermaid-mask-etc-2391101?aui=1057";s:16:"mobile_deal_link";s:88:"http://www.hotukdeals.com/for-sale-trade/wanted-little-mermaid-mask-etc-2391101?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391101_1.jpg";s:11:"description";s:367:"Hi all, 
+My best mate is getting married and natch we get to have a hen do! She loves Disney particularly little mermaid so was wondering if anyone has any masks etc that they no longer need or want and could go to a new home!?
+Recently took advantage of the packs of princess masks in Argos posted on here but alas no ArieL
+
+Fingers crossed -hoping someone can help,";s:11:"submit_time";s:18:"1 day, 2 hours ago";s:8:"hot_time";N;s:11:"poster_name";s:11:"drunkentwin";s:11:"temperature";i:0;s:5:"price";s:4:"1.00";s:9:"timestamp";i:1454861554;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:16:"For Sale / Trade";s:8:"url_name";s:14:"for-sale-trade";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Kids";s:8:"url_name";s:4:"kids";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";N;s:8:"url_name";N;}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391101_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391101";}i:25;O:8:"stdClass":20:{s:5:"title";s:75:"Argos: Feber Dareway 12V Ride-on Car - Blue.  was Â£129.99  now Â£95.99";s:9:"deal_link";s:107:"http://www.hotukdeals.com/deals/argos-feber-dareway-12v-ride-car-blue-was-129-99-now-95-99-2391418?aui=1057";s:16:"mobile_deal_link";s:107:"http://www.hotukdeals.com/deals/argos-feber-dareway-12v-ride-car-blue-was-129-99-now-95-99-2391418?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391418_1.jpg";s:11:"description";s:75:"Argos: Feber Dareway 12V Ride-on Car - Blue.  was Â£129.99  now Â£95.99";s:11:"submit_time";s:23:"10 hours, 7 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:7:"chuchu7";s:11:"temperature";d:-1.4899999999999999911182158029987476766109466552734375;s:5:"price";s:5:"95.99";s:9:"timestamp";i:1454921533;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Kids";s:8:"url_name";s:4:"kids";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Argos";s:8:"url_name";s:5:"argos";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:3:{i:0;O:8:"stdClass":1:{s:4:"name";s:3:"Car";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Argos";}i:2;O:8:"stdClass":1:{s:4:"name";s:7:"Ride On";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391418_1.jpg";s:24:"deal_image_highres_width";i:312;s:25:"deal_image_highres_height";i:312;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391418";}i:26;O:8:"stdClass":20:{s:5:"title";s:75:"Sony PlayStation PS4 500GB Console - Black Â£219.99 @ Argos Ebay (Refurb)";s:9:"deal_link";s:114:"http://www.hotukdeals.com/deals/sony-playstation-ps4-500gb-console-black-219-99-argos-ebay-refurb-2391100?aui=1057";s:16:"mobile_deal_link";s:114:"http://www.hotukdeals.com/deals/sony-playstation-ps4-500gb-console-black-219-99-argos-ebay-refurb-2391100?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391100_1.jpg";s:11:"description";s:42:"Refurbished With a 12 Month Argos Guarante";s:11:"submit_time";s:18:"1 day, 2 hours ago";s:8:"hot_time";N;s:11:"poster_name";s:9:"topsmoker";s:11:"temperature";d:-173.6399999999999863575794734060764312744140625;s:5:"price";s:6:"219.99";s:9:"timestamp";i:1454861460;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:6:"Gaming";s:8:"url_name";s:6:"gaming";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:1:{i:0;O:8:"stdClass":1:{s:4:"name";s:3:"PS4";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391100_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:500;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391100";}}

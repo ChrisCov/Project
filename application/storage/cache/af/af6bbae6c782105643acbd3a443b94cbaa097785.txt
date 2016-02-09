@@ -1,0 +1,203 @@
+a:20:{i:0;O:8:"stdClass":20:{s:5:"title";s:91:"Heads Up - Clubcard Boost back this month - Â£5 of vouchers = Â£10 Boost @ Tesco Direct";s:9:"deal_link";s:115:"http://www.hotukdeals.com/misc/heads-up-clubcard-boost-back-month-5-vouchers-10-boost-tesco-direct-2391411?aui=1057";s:16:"mobile_deal_link";s:115:"http://www.hotukdeals.com/misc/heads-up-clubcard-boost-back-month-5-vouchers-10-boost-tesco-direct-2391411?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391411_1.jpg";s:11:"description";s:354:"Just a heads up that Clubcard Boost is returning later this month across Tesco Direct where Â£5 of vouchers can be exchanged for Â£10.
+
+Saw an offer promoting the new Boost via an affiliate site (see comment 1) and spoke to customer services who confirmed that it will be starting again this month.
+
+Will update the post when I have more information.";s:11:"submit_time";s:24:"10 hours, 38 minutes ago";s:8:"hot_time";s:24:"10 hours, 22 minutes ago";s:11:"poster_name";s:9:"Chanchi32";s:11:"temperature";d:1370.0399999999999636202119290828704833984375;s:5:"price";N;s:9:"timestamp";i:1454920333;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:4:"Misc";s:8:"url_name";s:4:"misc";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Home";s:8:"url_name";s:4:"home";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:3:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:8:"Clubcard";}i:2;O:8:"stdClass":1:{s:4:"name";s:14:"Clubcard Boost";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391411_1.jpg";s:24:"deal_image_highres_width";i:150;s:25:"deal_image_highres_height";i:90;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391411";}i:1;O:8:"stdClass":20:{s:5:"title";s:73:"Amazon Fire 7, 7", Tablet, 8GB, WiFi - Black (2015) Â£39 @ Tesco Direct";s:9:"deal_link";s:107:"http://www.hotukdeals.com/deals/amazon-fire-7-7-tablet-8gb-wifi-black-2015-39-tesco-direct-2391562?aui=1057";s:16:"mobile_deal_link";s:107:"http://www.hotukdeals.com/deals/amazon-fire-7-7-tablet-8gb-wifi-black-2015-39-tesco-direct-2391562?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391562_1.jpg";s:11:"description";s:116:"Â£39 http://www.tesco.com/direct/amazon-fire-7-7-tablet-8gb-wifi-black-2015/161-5643.prd?pageLevel=&skuId=161-5643";s:11:"submit_time";s:23:"6 hours, 27 minutes ago";s:8:"hot_time";s:23:"5 hours, 14 minutes ago";s:11:"poster_name";s:9:"rejector1";s:11:"temperature";d:644.9299999999999499777914024889469146728515625;s:5:"price";s:5:"39.00";s:9:"timestamp";i:1454935356;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:3:{i:0;O:8:"stdClass":1:{s:4:"name";s:6:"Amazon";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:2;O:8:"stdClass":1:{s:4:"name";s:6:"Tablet";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391562_1.jpg";s:24:"deal_image_highres_width";i:170;s:25:"deal_image_highres_height";i:170;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391562";}i:2;O:8:"stdClass":20:{s:5:"title";s:43:"Pick Me Up Magazine Issue 6 (ends 17.02.16)";s:9:"deal_link";s:94:"http://www.hotukdeals.com/competitions/pick-up-magazine-issue-6-ends-17-02-16-2391298?aui=1057";s:16:"mobile_deal_link";s:94:"http://www.hotukdeals.com/competitions/pick-up-magazine-issue-6-ends-17-02-16-2391298?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391298_1.jpg";s:11:"description";s:1138:"Puzzle 1, Page 3, Ed's Test: ROMANCE
+Puzzle 2, Page 9, Follow It: GARDEN
+Puzzle 3, Page 25, Tesco Gift Cards: WOOL
+Puzzle 4, Page 36, Strike It: PALMISTRY
+Puzzle 5, Page 36, Number Fit: 618
+Puzzle 6, Page 48, Cross It: NARRATOR
+Puzzle 7, Page 48, Sudoku: 524
+Puzzle 8, Page 50, Crack It: NOSTALGIA
+
+Puzzle 9, Page 54, Win without finishing:
+ACROSS
+8 Across: EBB AND FLOW
+9 Across: INCH
+10 Across: DEMEAN
+11 Across: TURN SOUR
+12 Across: EVER
+14 Across: IMPASSABLE
+16 Across: PLAY ON WORDS
+20 Across: BRING ABOUT
+22 Across: RARE
+23 Across: IMPLICIT
+25 Across: TURRET
+27 Across: OATS
+28 Across: PROPITIOUS
+
+DOWN
+1 Down: OBSERVE
+2 Down: MACE
+3 Down: IDENTITY
+4 Down: FLAT
+5 Down: DWARFS
+6 Down: FIRST AIDER
+7 Down: SCRUPLE
+13 Down: RELENTLESS
+15 Down: PANTO
+17 Down: OUTSTRIP
+18 Down: TRAMWAY
+19 Down: DRIED UP
+21 Down: ACCEPT
+24 Down: TROT
+26 Down: RAIN
+
+PRIZES:
+Ed's Test: Win Â£25
+Follow It: Win Â£1000
+Strike It: Win Â£200
+Number Fit: Win Â£25
+Tesco Gift Cards: 5 X Â£50
+Crack It: Â£500
+Cross It: Win Â£25
+Sudoku: Win Â£25
+Win Without Finishing: Â£25 for every correct answer, Â£1000 if all correct
+
+Good luck everyone";s:11:"submit_time";s:24:"20 hours, 56 minutes ago";s:8:"hot_time";s:23:"9 hours, 25 minutes ago";s:11:"poster_name";s:7:"jaibaby";s:11:"temperature";d:237.150000000000005684341886080801486968994140625;s:5:"price";N;s:9:"timestamp";i:1454883253;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:12:"Competitions";s:8:"url_name";s:12:"competitions";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:13:"Entertainment";s:8:"url_name";s:13:"entertainment";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:22:"Competitions Post Here";s:8:"url_name";s:22:"competitions-post-here";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:2:{i:0;O:8:"stdClass":1:{s:4:"name";s:8:"Magazine";}i:1;O:8:"stdClass":1:{s:4:"name";s:10:"Pick Me Up";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391298_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391298";}i:3;O:8:"stdClass":20:{s:5:"title";s:99:"3 for 2 Cheapest free on Selected Lego Dimensions Fun Packs @ Tesco In-store & Direct Â£11-Â£15";s:9:"deal_link";s:130:"http://www.hotukdeals.com/deals/3-for-2-cheapest-free-selected-lego-dimensions-fun-packs-tesco-store-direct-11-15-2391444?aui=1057";s:16:"mobile_deal_link";s:130:"http://www.hotukdeals.com/deals/3-for-2-cheapest-free-selected-lego-dimensions-fun-packs-tesco-store-direct-11-15-2391444?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391444_1.jpg";s:11:"description";s:151:"3 for 2 Cheapest free on Selected Lego Dimensions Fun Packs @ Tesco In-Store & Direct.
+
+Prices vary from Â£11 - Â£15. 
+
+Â£2 for Click and Collect";s:11:"submit_time";s:22:"9 hours, 2 minutes ago";s:8:"hot_time";s:22:"6 hours, 7 minutes ago";s:11:"poster_name";s:7:"Tom7586";s:11:"temperature";d:222.650000000000005684341886080801486968994140625;s:5:"price";s:5:"11.00";s:9:"timestamp";i:1454926075;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:6:"Gaming";s:8:"url_name";s:6:"gaming";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:4:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:4:"Lego";}i:2;O:8:"stdClass":1:{s:4:"name";s:11:"Tesco Direc";}i:3;O:8:"stdClass":1:{s:4:"name";s:15:"Lego Dimensions";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391444_1.jpg";s:24:"deal_image_highres_width";i:363;s:25:"deal_image_highres_height";i:500;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391444";}i:4;O:8:"stdClass":20:{s:5:"title";s:55:"13 Snack size snickers 35p at tesco - Ashby de la zouch";s:9:"deal_link";s:99:"http://www.hotukdeals.com/deals/13-snack-size-snickers-35p-tesco-ashby-de-la-zouch-2391802?aui=1057";s:16:"mobile_deal_link";s:99:"http://www.hotukdeals.com/deals/13-snack-size-snickers-35p-tesco-ashby-de-la-zouch-2391802?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391802_1.jpg";s:11:"description";s:150:"Snack size snickers reduced to 35p a bag instore at tesco ashby de la zouch. Loads left in a basket on 1st aisle. Hope people find in there local too ";s:11:"submit_time";s:14:"56 minutes ago";s:8:"hot_time";s:14:"28 minutes ago";s:11:"poster_name";s:8:"Lizzie18";s:11:"temperature";d:161.1200000000000045474735088646411895751953125;s:5:"price";s:4:"0.35";s:9:"timestamp";i:1454955210;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Groceries";s:8:"url_name";s:9:"groceries";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Tesco";s:8:"url_name";s:9:"tesco.com";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391802_1.jpg";s:24:"deal_image_highres_width";i:498;s:25:"deal_image_highres_height";i:500;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391802";}i:5;O:8:"stdClass":20:{s:5:"title";s:94:"Goodmans 150W Soundbar with bluetooth and external Subwoofer! Was Â£99 Now Â£49.00 @ Tesco";s:9:"deal_link";s:128:"http://www.hotukdeals.com/deals/goodmans-150w-soundbar-with-bluetooth-external-subwoofer-was-99-now-49-00-tesco-2391794?aui=1057";s:16:"mobile_deal_link";s:128:"http://www.hotukdeals.com/deals/goodmans-150w-soundbar-with-bluetooth-external-subwoofer-was-99-now-49-00-tesco-2391794?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391794_1.jpg";s:11:"description";s:143:"This was a good deal at Â£69.99, great deal at Â£49! No experience of the product, just wanted to point out the further reduction in price.";s:11:"submit_time";s:21:"1 hour, 2 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:4:"rsty";s:11:"temperature";d:88.68999999999999772626324556767940521240234375;s:5:"price";s:5:"49.00";s:9:"timestamp";i:1454954842;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:11:"Audiovisual";s:8:"url_name";s:11:"audiovisual";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:5:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:9:"Bluetooth";}i:2;O:8:"stdClass":1:{s:4:"name";s:8:"Soundbar";}i:3;O:8:"stdClass":1:{s:4:"name";s:8:"Goodmans";}i:4;O:8:"stdClass":1:{s:4:"name";s:9:"Subwoofer";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391794_1.jpg";s:24:"deal_image_highres_width";i:270;s:25:"deal_image_highres_height";i:270;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391794";}i:6;O:8:"stdClass":20:{s:5:"title";s:78:"Lenovo A2 A10-70 White Tablet 16GB 10 Inch, 2GB Ram, 1920x1200 Â£119 @ Tesco";s:9:"deal_link";s:119:"http://www.hotukdeals.com/deals/lenovo-a2-a10-70-white-tablet-16gb-10-inch-2gb-ram-1920x1200-119-tesco-2391785?aui=1057";s:16:"mobile_deal_link";s:119:"http://www.hotukdeals.com/deals/lenovo-a2-a10-70-white-tablet-16gb-10-inch-2gb-ram-1920x1200-119-tesco-2391785?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391785_1.jpg";s:11:"description";s:668:"Bought this tablet yesterday instore at Tesco, and paid Â£140, so this is a cracking deal, and for the money, a cracking tablet. 
+
+Currently going for Â£149 @Amazon and Â£149.99 at Argos.
+
+Lollipop 5.01 out of the box (not the stated Kitkat), 2GB ram, 1920x1200 display and a fat 7000mAh battery make this a very juicy deal...
+
+The tablet also runs a pretty clean version of  Lollipop which is great - no dodgy interface tweaks for the sake of tweaking. I haven't had a chance to look into the bundled apps but there are only a few, one of which I've uninstalled already (a game) but can't say yet whether the others uninstall.  Hardly a big deal though imo...  ";s:11:"submit_time";s:22:"1 hour, 11 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:14:"CaptainCustard";s:11:"temperature";d:83.9599999999999937472239253111183643341064453125;s:5:"price";s:6:"119.00";s:9:"timestamp";i:1454954308;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:2:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:3:"RAM";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391785_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:392;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391785";}i:7;O:8:"stdClass":20:{s:5:"title";s:65:"*Tesco* Instore - Minions Poseable Duluxe Action Figures Â£2.50";s:9:"deal_link";s:106:"http://www.hotukdeals.com/deals/tesco-instore-minions-poseable-duluxe-action-figures-2-50-2391513?aui=1057";s:16:"mobile_deal_link";s:106:"http://www.hotukdeals.com/deals/tesco-instore-minions-poseable-duluxe-action-figures-2-50-2391513?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391513_1.jpg";s:11:"description";s:214:"They were Â£15.00 and dropped down to Â£2.50 at my local Haslingden branch 
+
+Great as stashaways for Xmas! 
+
+Still quite a few left! 
+
+They are decent sized at 5" tall and eyes that move when you press a button";s:11:"submit_time";s:23:"7 hours, 27 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:15:"mummyofmonsters";s:11:"temperature";d:57.61999999999999744204615126363933086395263671875;s:5:"price";s:4:"2.50";s:9:"timestamp";i:1454931759;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Kids";s:8:"url_name";s:4:"kids";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:3:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Dulux";}i:2;O:8:"stdClass":1:{s:4:"name";s:13:"Action Figure";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391513_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:375;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391513";}i:8;O:8:"stdClass":20:{s:5:"title";s:52:"Red kite 360 activity bouncer Â£15 instore @ Tesco";s:9:"deal_link";s:95:"http://www.hotukdeals.com/deals/red-kite-360-activity-bouncer-15-instore-tesco-2391636?aui=1057";s:16:"mobile_deal_link";s:95:"http://www.hotukdeals.com/deals/red-kite-360-activity-bouncer-15-instore-tesco-2391636?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391636_1.jpg";s:11:"description";s:221:"Id ring your store before you make the journey to check its in.
+Not marked with a yellow reduced sticker just priced as Â£15
+also chicco baby walker Â£11 in turquoise and chic pocket snack booster Â£7.50 in orange.
+";s:11:"submit_time";s:23:"4 hours, 36 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:6:"j8ulia";s:11:"temperature";d:58.6099999999999994315658113919198513031005859375;s:5:"price";s:5:"15.00";s:9:"timestamp";i:1454942032;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Kids";s:8:"url_name";s:4:"kids";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:4:{i:0;O:8:"stdClass":1:{s:4:"name";s:8:"Xbox 360";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:2;O:8:"stdClass":1:{s:4:"name";s:7:"Bouncer";}i:3;O:8:"stdClass":1:{s:4:"name";s:4:"Kite";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391636_1.jpg";s:24:"deal_image_highres_width";i:222;s:25:"deal_image_highres_height";i:227;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391636";}i:9;O:8:"stdClass":20:{s:5:"title";s:49:"The Bureau Xcom Declassified PS3 Â£2.50 @ Tesco";s:9:"deal_link";s:88:"http://www.hotukdeals.com/deals/bureau-xcom-declassified-ps3-2-50-tesco-2391631?aui=1057";s:16:"mobile_deal_link";s:88:"http://www.hotukdeals.com/deals/bureau-xcom-declassified-ps3-2-50-tesco-2391631?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391631_1.jpg";s:11:"description";s:144:"The Bureau Xcom Declassified PS3 is Â£2.50 on Tesco Direct currently.
+
+Also can get 1.57% cashback through top cashback and free home delivery";s:11:"submit_time";s:23:"4 hours, 45 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:11:"Disgraceful";s:11:"temperature";d:46.61999999999999744204615126363933086395263671875;s:5:"price";s:4:"2.50";s:9:"timestamp";i:1454941505;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:6:"Gaming";s:8:"url_name";s:6:"gaming";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:3:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:3:"PS3";}i:2;O:8:"stdClass":1:{s:4:"name";s:4:"Xcom";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391631_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:222;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391631";}i:10;O:8:"stdClass":20:{s:5:"title";s:51:"reduced perfumes and aftershaves ( Tesco groceries)";s:9:"deal_link";s:93:"http://www.hotukdeals.com/deals/reduced-perfumes-aftershaves-tesco-groceries-2391573?aui=1057";s:16:"mobile_deal_link";s:93:"http://www.hotukdeals.com/deals/reduced-perfumes-aftershaves-tesco-groceries-2391573?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391573_1.jpg";s:11:"description";s:30:"Alot of variety to choose from";s:11:"submit_time";s:23:"6 hours, 17 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:10:"amzzzzyyyy";s:11:"temperature";d:45.219999999999998863131622783839702606201171875;s:5:"price";N;s:9:"timestamp";i:1454935980;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Groceries";s:8:"url_name";s:9:"groceries";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Tesco";s:8:"url_name";s:9:"tesco.com";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:5:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:7:"Perfume";}i:2;O:8:"stdClass":1:{s:4:"name";s:10:"Valentines";}i:3;O:8:"stdClass":1:{s:4:"name";s:10:"Aftershave";}i:4;O:8:"stdClass":1:{s:4:"name";s:7:"Grocery";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391573_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:500;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391573";}i:11;O:8:"stdClass":20:{s:5:"title";s:93:"LG 43UF675V 43" LED TV Black Ultra HD 4k Freeview HD 4k Upscale - Refurb Â£299 @ Tesco eBay";s:9:"deal_link";s:128:"http://www.hotukdeals.com/deals/lg-43uf675v-43-led-tv-black-ultra-hd-4k-freeview-hd-4k-upscale-refurb-299-tesco-2391837?aui=1057";s:16:"mobile_deal_link";s:128:"http://www.hotukdeals.com/deals/lg-43uf675v-43-led-tv-black-ultra-hd-4k-freeview-hd-4k-upscale-refurb-299-tesco-2391837?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391837_1.jpg";s:11:"description";s:1392:"Just had an email from Tesco eBay outlet saying this had just been reduced by Â£40 to Â£299.
+
+Product Information
+ULTRA HD 4K RESOLUTION
+Four times the resolution. Four times the detail.
+ULTRA HD 4K resolution is four times that of Full HD, resulting in brilliant clarity and vivid details that amaze, even up close. Enjoy a new standard of definition.
+
+4K UPSCALER
+Scale new heights of resolution.
+The 4K Upscaler converts lower resolution entertainment to near 4K quality using a unique 6-step image processing technology. So whether it's broadcasts, movies, sports or more, you can now enjoy it in incredible detail.
+Ribbon Plate Stand
+Sturdy stand
+Form follows function with this sturdy and elegant Ribbon Plate Stand.
+HDMI 4K
+Future proof your TV
+HDMI 4K can transmit large amounts of data at once. This advanced technology supports 4K video with 60 frames per second, which is the standard for UHD broadcasting. Be ready for the UHD experience for HDMI 4K.
+Virual Surround
+Put yourself in the middle of the action with Virtual Surround that delivers an extended sound field.
+
+FREEVIEW HD
+Your Favourite Channels. Subscription Free. In HD.
+Get the UKâs favourite TV channels in high definition subscription free. Already offering up to 13 HD with more planned in 2015, you can enjoy the likes of BBC, ITV and Channel 4 direct to your TV for free with no monthly contract or fee.";s:11:"submit_time";s:13:"9 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:11:"Walesraider";s:11:"temperature";d:10.6500000000000003552713678800500929355621337890625;s:5:"price";s:6:"299.00";s:9:"timestamp";i:1454958029;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:11:"Audiovisual";s:8:"url_name";s:11:"audiovisual";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:4:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:2:"4k";}i:2;O:8:"stdClass":1:{s:4:"name";s:5:"LG TV";}i:3;O:8:"stdClass":1:{s:4:"name";s:10:"43" Refurb";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391837_1.jpg";s:24:"deal_image_highres_width";i:450;s:25:"deal_image_highres_height";i:370;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391837";}i:12;O:8:"stdClass":20:{s:5:"title";s:102:"Kodak Pix Pro FZ151 Digital Camera, Black, 16MP, 15x Optical Zoom 3" LCD Screen Â£49.00 Tesco Direct";s:9:"deal_link";s:130:"http://www.hotukdeals.com/deals/kodak-pix-pro-fz151-digital-camera-black-16mp-15x-optical-zoom-3-lcd-screen-49-00-2391840?aui=1057";s:16:"mobile_deal_link";s:130:"http://www.hotukdeals.com/deals/kodak-pix-pro-fz151-digital-camera-black-16mp-15x-optical-zoom-3-lcd-screen-49-00-2391840?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391840_1.jpg";s:11:"description";s:1058:"This looks like a great spec camera, for under Â£50, well worth a look IMHO...
+
+3 inch screen 15x optical  and 6x digital zoom and  Image Stabiliser combats camera shake and plenty of bells and whistles...
+
+Mega Pixels (MP) 16.3
+
+Optical Zoom (x) 15
+
+Digital Zoom Magnification (x) 6
+
+Size Of Sensor (mm) 1/2.3"
+
+Minimum Focusing Distance (m) 0.03
+
+Minimum Focal Length Of Lens (mm) 4.3
+
+Maximum Focal Length Of Lens (mm) 64.5
+
+Image Stabiliser Optical - built into camera
+
+Focusing Method Autofocus
+
+Maximum Aperture (f) 3.3
+
+Lens Cap Built-in
+
+Sensor Type CCD
+
+Shots Per Battery Charge 210
+
+Battery Type Rechargeable lithium ion
+
+Display & Graphics Screen Type
+LCD
+
+AV Out Socket
+
+Screen Size (in) 3
+
+Face Recognition
+
+Red Eye Reduction
+
+Smile Detection
+
+Minimum ISO Rating 80
+
+Maximum ISO Rating 1600
+
+ Slowest Shutter Speed (secs) 30
+
+ Fastest Shutter Speed (secs) 1/2000
+
+Self Timer
+
+Software Included
+
+Max Video Resolution 720p
+
+Product Height 59.7 Millimetre
+
+Product Width108.2 Millimetre
+
+Product Depth 30.9 Millimetre
+
+Product Weight 180.0 Gram
+
+";s:11:"submit_time";s:13:"9 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:11:"Toxic_Waste";s:11:"temperature";d:6.589999999999999857891452847979962825775146484375;s:5:"price";s:5:"49.00";s:9:"timestamp";i:1454958073;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:11:"Audiovisual";s:8:"url_name";s:11:"audiovisual";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:12:"Tesco Direct";s:8:"url_name";s:11:"tesco.com-1";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391840_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391840";}i:13;O:8:"stdClass":20:{s:5:"title";s:33:"Tesco robbed me by not delivering";s:9:"deal_link";s:70:"http://www.hotukdeals.com/ask/tesco-robbed-delivering-2391254?aui=1057";s:16:"mobile_deal_link";s:70:"http://www.hotukdeals.com/ask/tesco-robbed-delivering-2391254?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391254_1.jpg";s:11:"description";s:308:"I ordered groceries from Tesco.com but they never delivered the goods. I phoned and wrote to them many times. First they said they'll investigate and now they claim to have no record to confirm this. What can I do? I'd like a replacement or refund. This is disgraceful. I've been a loyal customer for years. ";s:11:"submit_time";s:24:"22 hours, 23 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:9:"chance189";s:11:"temperature";i:0;s:5:"price";N;s:9:"timestamp";i:1454878023;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:3:"Ask";s:8:"url_name";s:3:"ask";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Groceries";s:8:"url_name";s:9:"groceries";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";N;s:8:"url_name";N;}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391254_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391254";}i:14;O:8:"stdClass":20:{s:5:"title";s:34:"What broadband service to go with?";s:9:"deal_link";s:77:"http://www.hotukdeals.com/ask/what-broadband-service-go-with-2391611?aui=1057";s:16:"mobile_deal_link";s:77:"http://www.hotukdeals.com/ask/what-broadband-service-go-with-2391611?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391611_1.jpg";s:11:"description";s:747:"I only have my EE Christmas sim for 2 weeks and need to get a new broadband deal sorted.  Issues are:
+
+1) Tried to get a 3 data sim on dongle but they said it wont work
+2) Tried to go to Virgin but there are no virgin lines in our area
+3) Dont want to be tied to 12 month contract if possible.
+4) Dont want landline, TV or any of the other extras forced on you.
+5) I have had Tesco, EE and Talktalk in the past for broadband.  There appears to be a poor quality line service to this house and the line often drops out regardless of how you are with, I have noticed this seems to be all the companies that piggy back on the BT line.
+
+What can I do now to get myself an internet connection in the house?   Any advice welcome as feel a bit stuck now.";s:11:"submit_time";s:23:"5 hours, 25 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:8:"googley2";s:11:"temperature";i:0;s:5:"price";N;s:9:"timestamp";i:1454939060;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:3:"Ask";s:8:"url_name";s:3:"ask";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:4:"Home";s:8:"url_name";s:4:"home";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";N;s:8:"url_name";N;}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391611_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391611";}i:15;O:8:"stdClass":20:{s:5:"title";s:179:"Hi my in-laws are going to replace their old pc with a laptop max Â£350.After looking here and there I think the Asus X555LA at tesco's is their best bet.What do you guys think?";s:9:"deal_link";s:128:"http://www.hotukdeals.com/ask/hi-laws-going-replace-their-old-pc-with-a-laptop-max-350-after-looking-here-think-2391506?aui=1057";s:16:"mobile_deal_link";s:128:"http://www.hotukdeals.com/ask/hi-laws-going-replace-their-old-pc-with-a-laptop-max-350-after-looking-here-think-2391506?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391506_1.jpg";s:11:"description";s:14:"Laptop
+Â£350";s:11:"submit_time";s:23:"7 hours, 42 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:4:"mobo";s:11:"temperature";i:0;s:5:"price";N;s:9:"timestamp";i:1454930886;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:3:"Ask";s:8:"url_name";s:3:"ask";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Computers";s:8:"url_name";s:9:"computers";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";N;s:8:"url_name";N;}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391506_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391506";}i:16;O:8:"stdClass":20:{s:5:"title";s:62:"Supermarkets Remove Banned Hair Dye Containing Banned Chemical";s:9:"deal_link";s:110:"http://www.hotukdeals.com/misc/supermarkets-remove-banned-hair-dye-containing-banned-chemical-2391586?aui=1057";s:16:"mobile_deal_link";s:110:"http://www.hotukdeals.com/misc/supermarkets-remove-banned-hair-dye-containing-banned-chemical-2391586?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391586_1.jpg";s:11:"description";s:521:"Interesting article over on the PlayPennies website regarding the Bigen range of hair dye products. Apparently both Tesco and Sainsbury's have confirmed the removal of the product due to it containing a banned chemical that can cause harm to unborn babies and a women's fertility.
+
+PP state that if you have any of these products you are advised to "take them back to where you bought them and you will be refunded. Tesco and Sainsbury's are fully aware of the recall as should others, so you shouldn't have any trouble."";s:11:"submit_time";s:23:"5 hours, 53 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:12:"BuzzDuraband";s:11:"temperature";i:0;s:5:"price";N;s:9:"timestamp";i:1454937383;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:4:"Misc";s:8:"url_name";s:4:"misc";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:7:"Fashion";s:8:"url_name";s:7:"fashion";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";N;s:8:"url_name";N;}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391586_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391586";}i:17;O:8:"stdClass":20:{s:5:"title";s:28:"Having multiple credit cards";s:9:"deal_link";s:75:"http://www.hotukdeals.com/ask/having-multiple-credit-cards-2391720?aui=1057";s:16:"mobile_deal_link";s:75:"http://www.hotukdeals.com/ask/having-multiple-credit-cards-2391720?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391720_1.jpg";s:11:"description";s:590:"Hi I have just applied for a partnership (john lewis/waitrose) credit card as they seem to give better points that my tesco credit card. 
+
+So now I have 3 credit cards
+Nationwide - for fee free foreign purchases
+Tesco - was for the extra clubcard points but now it 1 for Â£8 spent - seems rubbish
+New one - 1 point for Â£2 spent
+
+So my question is, should I cancel my tesco credit card, it will still be useful if I buy from tesco as I'll get an extra clubcard point per Â£4 but will the large amount of credit be bad for me? I was thinking of lowering the limit, is that a good idea?";s:11:"submit_time";s:23:"2 hours, 19 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:11:"badasschris";s:11:"temperature";i:0;s:5:"price";N;s:9:"timestamp";i:1454950244;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:3:"Ask";s:8:"url_name";s:3:"ask";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:5:"Other";s:8:"url_name";s:11:"other-deals";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";N;s:8:"url_name";N;}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:0:{}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391720_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391720";}i:18;O:8:"stdClass":20:{s:5:"title";s:62:"Absolut Swedish Vodka - Limited Edition 70cl - Tesco Â£16.00";s:9:"deal_link";s:103:"http://www.hotukdeals.com/deals/absolut-swedish-vodka-limited-edition-70cl-tesco-16-00-2391309?aui=1057";s:16:"mobile_deal_link";s:103:"http://www.hotukdeals.com/deals/absolut-swedish-vodka-limited-edition-70cl-tesco-16-00-2391309?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391309_1.jpg";s:11:"description";s:319:"Get a bootle of Vodka while the offer lasts. Normal price is Â£20.50 - thats at least what I payed last time for a bottle there.
+
+Thanks to benjaminbritton88 he found a even cheaper offer at ASDA for Â£15.00! However I don't got any around where I live :(
+http://groceries.asda.com/product/vodka/absolut-vodka/40634";s:11:"submit_time";s:24:"20 hours, 15 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:11:"multiblonde";s:11:"temperature";d:-1.1599999999999999200639422269887290894985198974609375;s:5:"price";s:5:"16.00";s:9:"timestamp";i:1454885667;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:9:"Groceries";s:8:"url_name";s:9:"groceries";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:5:"Tesco";s:8:"url_name";s:9:"tesco.com";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:4:{i:0;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Vodka";}i:2;O:8:"stdClass":1:{s:4:"name";s:7:"Grocery";}i:3;O:8:"stdClass":1:{s:4:"name";s:5:"Offer";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391309_1.jpg";s:24:"deal_image_highres_width";i:500;s:25:"deal_image_highres_height";i:500;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391309";}i:19;O:8:"stdClass":20:{s:5:"title";s:116:"Refurb Microsoft Xbox One Black 500GB Gaming Console with FIFA 16 Legends Game Bundle (Refurb) Â£239 Tesco on eBay";s:9:"deal_link";s:134:"http://www.hotukdeals.com/deals/refurb-microsoft-xbox-one-black-500gb-gaming-console-with-fifa-16-legends-game-bundle-2391627?aui=1057";s:16:"mobile_deal_link";s:134:"http://www.hotukdeals.com/deals/refurb-microsoft-xbox-one-black-500gb-gaming-console-with-fifa-16-legends-game-bundle-2391627?aui=1057";s:10:"deal_image";s:57:"http://static.hotukdeals.com/images/threads/2391627_1.jpg";s:11:"description";s:1363:"This is a deal for a refurbished Xbox One bundle deal from tescos. It comes bundled with FIFA 16 Legends. It's, sold as "refurbished" because of the opened box and usage. Nonetheless, it's covered by eBay Money Back Guarantee, if anything breaks in the first 30 days, you will be able to get your money back. Moreover, it's sold by tescos, so there shouldn't be any issues with the seller.
+
+Item is in "seller Refurbished" condition @ eBay
+- mixmixi
+
+Refurbished
+Refurbished items are customer returns. They might for example, be unwanted gifts, ex-display or products where customers have simply changed their mind. Product identified by Tesco Outlet as "refurbished" are products that have been returned to Tesco stores.
+Minor cosmestic marks (Grade C products will have Major cosmetic marks)
+Original retail box or replacement box may be marked or scuffed
+Fully functional test and factory reset (if necessary)
+All products are supplied with basic accessories to use the product (unless stated in the listing)
+Professionally refurbished
+12 month Tesco Outlet warranty
+All items sold have been classified by our certified testing facilities where they are examined, fully tested, and if necessary, refurbished, repaired and repackaged in to a generic brown box.
+All refurbished products have been priced to show a fantastic saving to the original RRP.
+- mixmixi";s:11:"submit_time";s:23:"4 hours, 56 minutes ago";s:8:"hot_time";N;s:11:"poster_name";s:8:"HarrBarr";s:11:"temperature";d:-94.2300000000000039790393202565610408782958984375;s:5:"price";s:6:"239.00";s:9:"timestamp";i:1454940822;s:7:"expired";s:5:"false";s:5:"forum";O:8:"stdClass":2:{s:4:"name";s:5:"Deals";s:8:"url_name";s:5:"deals";}s:8:"category";O:8:"stdClass":2:{s:4:"name";s:6:"Gaming";s:8:"url_name";s:6:"gaming";}s:8:"merchant";O:8:"stdClass":2:{s:4:"name";s:4:"eBay";s:8:"url_name";s:10:"ebay.co.uk";}s:4:"tags";O:8:"stdClass":1:{s:5:"items";a:14:{i:0;O:8:"stdClass":1:{s:4:"name";s:4:"Xbox";}i:1;O:8:"stdClass":1:{s:4:"name";s:5:"Tesco";}i:2;O:8:"stdClass":1:{s:4:"name";s:9:"Xbox Game";}i:3;O:8:"stdClass":1:{s:4:"name";s:5:"Games";}i:4;O:8:"stdClass":1:{s:4:"name";s:8:"Xbox One";}i:5;O:8:"stdClass":1:{s:4:"name";s:6:"Sports";}i:6;O:8:"stdClass":1:{s:4:"name";s:4:"FIFA";}i:7;O:8:"stdClass":1:{s:4:"name";s:6:"Gaming";}i:8;O:8:"stdClass":1:{s:4:"name";s:12:"Xbox Console";}i:9;O:8:"stdClass":1:{s:4:"name";s:5:"Sport";}i:10;O:8:"stdClass":1:{s:4:"name";s:14:"FIFA World Cup";}i:11;O:8:"stdClass":1:{s:4:"name";s:7:"Fifa 15";}i:12;O:8:"stdClass":1:{s:4:"name";s:7:"FIFA 16";}i:13;O:8:"stdClass":1:{s:4:"name";s:6:"Tescos";}}}s:18:"deal_image_highres";s:66:"http://static.hotukdeals.com/images/threads/high-res/2391627_1.jpg";s:24:"deal_image_highres_width";i:300;s:25:"deal_image_highres_height";i:300;s:16:"display_page_url";s:45:"http://www.hotukdeals.com/visit?m=5&q=2391627";}}
